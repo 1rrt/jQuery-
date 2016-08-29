@@ -3,7 +3,7 @@
 `jQuery` 源码中，中文注释是我的解读 ，才疏学浅，若有不正之处，万望
 
 [详细全文中文注释请戳这里（未完待续）](https://github.com/chokcoco/jQuery-/blob/master/jquery-1.10.2__read.js)
-[可](www.hao123.com)
+[可](http://www.hao123.com)
 
 部分参考资料，收集如下
 
